@@ -1,4 +1,4 @@
-# threejs-react-demo
+# Three.js-demo
 
 ### Hosting
 
